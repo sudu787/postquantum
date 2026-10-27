@@ -1,0 +1,7 @@
+cryptography>=42
+pytest>=8
+# Pure-Python ML-KEM / ML-DSA fallback (installs everywhere; prototype only).
+kyber-py>=1.0
+dilithium-py>=1.1
+# Recommended for real numbers: liboqs-python (needs the native liboqs library).
+# liboqs-python>=0.12
